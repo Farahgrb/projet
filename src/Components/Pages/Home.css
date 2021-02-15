@@ -1,0 +1,8 @@
+.Carou{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
